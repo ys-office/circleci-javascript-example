@@ -1,0 +1,13 @@
+{
+  "name": "circleci-javascript-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yusuke.sato@ys-office.me",
+  "license": "MIT",
+  "scripts": {
+    "test":"jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
