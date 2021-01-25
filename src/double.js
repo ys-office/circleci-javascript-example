@@ -1,5 +1,5 @@
 function double(x) {
-    return x * 2;
+    return x * 4;
 }
 
 module.exports = double;
